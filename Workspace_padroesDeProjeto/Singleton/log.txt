@@ -1,0 +1,24 @@
+Iniciando serviço.
+Finalizando serviço.
+Iniciando serviço.
+Finalizando serviço.
+2023-05-01 16:49:13 - Iniciando serviço.
+2023-05-01 16:49:13 - Finalizando serviço.
+01-05-2023 16:51:34 - Iniciando serviço.
+01-05-2023 16:51:35 - Finalizando serviço.
+01-05-2023 17:06:03 - Iniciando serviço.
+01-05-2023 17:06:03 - Error: / by zero
+01-05-2023 17:06:03 - Finalizando serviço.
+01-05-2023 17:06:33 - Iniciando serviço.
+01-05-2023 17:06:37 - Error: / by zero
+01-05-2023 17:06:37 - Finalizando serviço.
+01-05-2023 20:51:21 - Iniciando serviço.
+01-05-2023 20:51:21 - Finalizando serviço.
+02-05-2023 15:35:41 - Iniciando serviço.
+02-05-2023 15:35:41 - Finalizando serviço.
+02-05-2023 15:37:16 - Iniciando serviço.
+02-05-2023 15:37:16 - Finalizando serviço.
+02-05-2023 15:53:18 - Iniciando serviço.
+02-05-2023 15:53:18 - Finalizando serviço.
+02-05-2023 16:49:58 - Iniciando serviço.
+02-05-2023 16:49:58 - Finalizando serviço.
